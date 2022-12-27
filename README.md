@@ -1,2 +1,3 @@
-# MY-DS-Repo
-All my DS projects including Python, Excel, SQL, Machine Learning and Tablue 
+# Data-Science-Repo
+All my Data Science projects including Python, Excel, SQL, Machine Learning and Tablue 
+and Capstone Project
